@@ -1,0 +1,6 @@
+
+ appropriately
+vice versa
+
+#0  0xb75d4b07 in fgets () from /lib/i386-linux-gnu/libc.so.6
+
